@@ -5,4 +5,4 @@ Travel through our Solar System, explore planets, moons, comets, and asteroids, 
 
 ![SpaceTraveller™ Poster](/Images/SpaceTraveller™%20(GitHub).png?raw=true "SpaceTraveller™ Application")
 
-This application is available for free in the [Microsoft® Store](https://www.microsoft.com/store/apps/9P367TLT2P07).
+This application is available for free in the [Microsoft® Store](https://apps.microsoft.com/detail/9P367TLT2P07).
